@@ -1,0 +1,21 @@
+{
+  "metadata": [
+    {
+      "description": "The native staking and governance token of the Evmos chain",
+      "denom_units": [
+        {
+          "denom": "arapid",
+          "exponent": 0
+        },
+        {
+          "denom": "evmos",
+          "exponent": 18
+        }
+      ],
+      "base": "arapid",
+      "display": "arapid",
+      "name": "arapid",
+      "symbol": "EVMOS"
+    }
+  ]
+}
